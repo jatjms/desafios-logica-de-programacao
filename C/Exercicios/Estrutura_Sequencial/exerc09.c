@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define descricao_programacao "Conversor de temperatura Fahrenheit em  Celsius."
+#define descricao_programacao "Conversor de temperatura Fahrenheit em  Celsius.\n"
 /*    
 9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a 
 temperatura em graus Celsius. 
@@ -12,7 +12,7 @@ int main(){
 
     float Fahrenheit,Celsius;
     printf("Informe a temperatura Agora em Fahrenheit.\n");
-    scanf("%f",Fahrenheit);
+    scanf("%f",&Fahrenheit);
 
     Celsius=5*((Fahrenheit-32)/9);
 
