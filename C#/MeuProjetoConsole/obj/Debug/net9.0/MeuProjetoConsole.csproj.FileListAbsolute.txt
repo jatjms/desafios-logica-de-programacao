@@ -1,0 +1,14 @@
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/bin/Debug/net9.0/MeuProjetoConsole
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/bin/Debug/net9.0/MeuProjetoConsole.deps.json
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/bin/Debug/net9.0/MeuProjetoConsole.runtimeconfig.json
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/bin/Debug/net9.0/MeuProjetoConsole.dll
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/bin/Debug/net9.0/MeuProjetoConsole.pdb
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/MeuProjetoConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/MeuProjetoConsole.AssemblyInfoInputs.cache
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/MeuProjetoConsole.AssemblyInfo.cs
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/MeuProjetoConsole.csproj.CoreCompileInputs.cache
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/MeuProjetoConsole.dll
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/refint/MeuProjetoConsole.dll
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/MeuProjetoConsole.pdb
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/MeuProjetoConsole.genruntimeconfig.cache
+/home/jatjms/Documentos/MegaCloud/Projects/Dev/desafios-logica-de-programacao/C#/MeuProjetoConsole/obj/Debug/net9.0/ref/MeuProjetoConsole.dll

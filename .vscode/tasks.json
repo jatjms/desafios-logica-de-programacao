@@ -3,13 +3,22 @@
         {
             "type": "cppbuild",
             "label": "C/C++: gcc build active file",
+<<<<<<< HEAD
             "command": "/usr/bin/gcc",
+=======
+            "command": "/usr/lib64/ccache/gcc",
+>>>>>>> 2a3a11b (Reorganiza estrutura de pastas para melhorar a organização)
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
                 "-o",
+<<<<<<< HEAD
                 "${fileDirname}/${fileBasenameNoExtension}"
+=======
+                "${fileDirname}/${fileBasenameNoExtension}",
+                ""
+>>>>>>> 2a3a11b (Reorganiza estrutura de pastas para melhorar a organização)
             ],
             "options": {
                 "cwd": "${fileDirname}"

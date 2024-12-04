@@ -5,7 +5,11 @@
       "includePath": [
         "${workspaceFolder}/**"
       ],
+<<<<<<< HEAD
       "compilerPath": "/usr/bin/gcc",
+=======
+      "compilerPath": "/usr/lib64/ccache/gcc",
+>>>>>>> 2a3a11b (Reorganiza estrutura de pastas para melhorar a organização)
       "cStandard": "${default}",
       "cppStandard": "${default}",
       "intelliSenseMode": "linux-gcc-x64",
